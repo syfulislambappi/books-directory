@@ -1,0 +1,11 @@
+{
+  "name": "books-directory",
+  "version": "1.0.0",
+  "description": "user can store, update, delete and read their book using the application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "Syful Islam",
+  "license": "ISC"
+}
